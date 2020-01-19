@@ -8,6 +8,9 @@ MIT
 ### Requirements
 Use a modern browser
 
+### Installation
+`CD` to the location of your choice, and then `git clone`
+
 ### Built With
 HTML
 CSS
